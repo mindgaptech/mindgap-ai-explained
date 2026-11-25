@@ -4,7 +4,7 @@ Code for the videos on the MindGap YouTube channel. Each video with code has its
 
 | Video | Folder | Watch |
 |---|---|---|
-| What is a PINN? Physics-Informed Neural Networks Explained | [`pinn-coffee`](pinn-coffee) | [YouTube](VIDEO_LINK) |
+| What is a PINN? Physics-Informed Neural Networks Explained | [`pinn-coffee`](pinn-coffee) | [YouTube](https://youtu.be/tJ4D3KqbQAI) |
 
 ## What is a PINN? (`pinn-coffee`)
 
